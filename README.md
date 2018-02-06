@@ -9,6 +9,6 @@ Repositório para escrever as partituras da festividade dos jovens
 ## Joel
 - Cellos
 - Sax Alto 1
-- Sax Tenor 1
 - Trombone 1
 - Trumpet
+- Grade
